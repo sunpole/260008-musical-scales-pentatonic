@@ -1,0 +1,11 @@
+{
+  "id": "260008",
+  "name": "musical-scales-pentatonic",
+  "title": "Таблица гамм и пентатоник",
+  "version": "0.1.0",
+  "status": "published",
+  "repository": "https://github.com/sunpole/260008-musical-scales-pentatonic",
+  "website": "https://sunpole.github.io/260008-musical-scales-pentatonic/",
+  "source_legacy_paths": ["stilist/muz", "stilist/muz2"],
+  "description": "Интерактивная таблица 30 мажорных и минорных гамм с отмеченными нотами пентатоники."
+}
